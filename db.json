@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Baku",
+        "info": "ehali",
+        "price": 100000
+      },
+      {
+        "id": 2,
+        "name": "Ganca",
+        "info": "ehali",
+        "price": 300000
+      },
+      {
+        "id": 3,
+        "name": "Masalli",
+        "info": "ehali",
+        "price": 150000
+      }
+    ]
+  }
+  
